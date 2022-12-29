@@ -1,4 +1,4 @@
-# dwmblocks
+# dwmblocks for my Deltron computer
 
 Modular status bar for dwm written in c.
 
